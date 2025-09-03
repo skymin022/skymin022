@@ -27,7 +27,7 @@ My goal is to continuously improve my skills while contributing effectively to m
 
 - **인하공업 전문대 졸업** | 자동차공학과 (2020.03 ~ 2024.02)  
   학점 4.1 / 4.5  
-  Python 기초 수업 포함
+  Python 기초 수업 수강
 
 - **송도 고등학교 졸업** | 이공계열 (2017.03 ~ 2020.02)  
   수학 동아리 활동, 수학 기술 대회, 과학 경시 대회(물리 부분) 은상, S-Team 과학탐구 대회 동상
