@@ -19,63 +19,6 @@ My goal is to continuously improve my skills while contributing effectively to m
 
 ---
 
-## 🎓 Education
-
-- **국비지원교육 수료** | 더조은컴퓨터아카데미 (2025.03 ~ 2025.09)  
-  AI활용 풀스택 (프론트엔드, 백엔드) 부트캠프  
-  [Project Info & Video](https://www.notion.so/Project-Info-Video-2463a9e0ed608173ab5afed207601b1d?pvs=21)
-
-- **인하공업 전문대 졸업** | 자동차공학과 (2020.03 ~ 2024.02)  
-  학점 4.1 / 4.5  
-  Python 기초 수업 수강
-
-- **송도 고등학교 졸업** | 이공계열 (2017.03 ~ 2020.02)  
-  수학 동아리 활동, 수학 기술 대회, 과학 경시 대회(물리 부분) 은상, S-Team 과학탐구 대회 동상
-
----
-
-## 🛠️ Skill Set
-
-### Languages  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-![XML](https://img.shields.io/badge/-XML-006499?logo=xml&logoColor=white)  
-![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white)  
-
-### Frameworks  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white)  
-![MyBatis](https://img.shields.io/badge/-MyBatis-007396?logo=apachemybatis&logoColor=white)  
-![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?logo=thymeleaf&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
-![Spring Security](https://img.shields.io/badge/-SpringSecurity-6DB33F?logo=spring&logoColor=white)  
-
-### Database  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-
-### Technologies  
-![Ajax](https://img.shields.io/badge/-Ajax-007BFF?logo=jquery&logoColor=white)  
-![JSP](https://img.shields.io/badge/-JSP-007396?logo=jsp&logoColor=white)  
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)  
-
-### IDE & Tools  
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=white)  
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)  
-![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white)  
-
-### Server  
-![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white)  
-![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?logo=apachetomcat&logoColor=black)  
-
----
-
 ## 🏆 Certifications
 
 - 2025.09.10: 정보처리산업기사 (필기 합격) - 한국산업인력공단  
@@ -135,5 +78,64 @@ My goal is to continuously improve my skills while contributing effectively to m
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/skymin022)](https://hits.seeyoufarm.com)
 
 ---
+
+## 🎓 Education
+
+- **국비지원교육 수료** | 더조은컴퓨터아카데미 (2025.03 ~ 2025.09)  
+  AI활용 풀스택 (프론트엔드, 백엔드) 부트캠프  
+  [Project Info & Video](https://www.notion.so/Project-Info-Video-2463a9e0ed608173ab5afed207601b1d?pvs=21)
+
+- **인하공업 전문대 졸업** | 자동차공학과 (2020.03 ~ 2024.02)  
+  학점 4.1 / 4.5  
+  Python 기초 수업 수강
+
+- **송도 고등학교 졸업** | 이공계열 (2017.03 ~ 2020.02)  
+  수학 동아리 활동, 수학 기술 대회, 과학 경시 대회(물리 부분) 은상, S-Team 과학탐구 대회 동상
+
+---
+
+## 🛠️ Skill Set
+
+### Languages  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+![XML](https://img.shields.io/badge/-XML-006499?logo=xml&logoColor=white)  
+![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white)  
+
+### Frameworks  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white)  
+![MyBatis](https://img.shields.io/badge/-MyBatis-007396?logo=apachemybatis&logoColor=white)  
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?logo=thymeleaf&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+![Spring Security](https://img.shields.io/badge/-SpringSecurity-6DB33F?logo=spring&logoColor=white)  
+
+### Database  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+
+### Technologies  
+![Ajax](https://img.shields.io/badge/-Ajax-007BFF?logo=jquery&logoColor=white)  
+![JSP](https://img.shields.io/badge/-JSP-007396?logo=jsp&logoColor=white)  
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)  
+
+### IDE & Tools  
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=white)  
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)  
+![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white)  
+
+### Server  
+![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white)  
+![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?logo=apachetomcat&logoColor=black)  
+
+---
+
+
 
 <!-- 필요에 따라 추가 문구나 인용구 기재 가능 -->
