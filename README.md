@@ -33,8 +33,22 @@ My goal is to continuously improve my skills while contributing effectively to m
 
 ## 💼 Experience & Projects
 
+### [The Joyful Delivery](https://polydactyl-viburnum-a6c.notion.site/Project-The-Joyful-Delivery-2463a9e0ed6081f196a9e562cbfdd4b4?pvs=74)
+- 기간: 2025.5.16 ~ 2025.5.28
+- 역할: 백엔드 및 프론트엔드 전반 개발, 보안 및 인증 구현
+- 기술: JSP, Servlet, JDBC, Java
+
+주요 기능:  
+- 사용자 계정 관리(로그인/로그아웃, 회원가입, 마이페이지), 배송 현황 조회(운송장 번호 기반 배송 상태 조회) 등  
+
+성과:  
+- 사용자 평의성 향상 시도, 보안 강화(인증 필터, 유효성 검사), 실시간 배송 상태 조회, 유지보수성 확보(DAO, DTO, Service) 아키텍처 준수
+
+---
+
+
 ### [Resonos 플랫폼 관리자 시스템](https://polydactyl-viburnum-a6c.notion.site/Project-Resonos-spring-MVC-thymeleaf-2463a9e0ed6081059c54f942e1951d14)  
-- 기간: 2025.6.26 ~ 2025.6.30  
+- 기간: 2025.6.26 ~ 2025.7.22
 - 역할: 백엔드 및 프론트엔드 전반 개발, REST API 설계, 보안 및 인증 구현, 외부 API 연동  
 - 기술: Java, Spring Boot, Spring Security, MyBatis, Thymeleaf, Bootstrap, Spotify API 등  
 
