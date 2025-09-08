@@ -33,7 +33,7 @@ My goal is to continuously improve my skills while contributing effectively to m
 
 ## 💼 Experience & Projects
 
-### [Resonos 플랫폼 관리자 시스템] (https://polydactyl-viburnum-a6c.notion.site/Project-Resonos-spring-MVC-thymeleaf-2463a9e0ed6081059c54f942e1951d14)  
+### [Resonos 플랫폼 관리자 시스템](https://polydactyl-viburnum-a6c.notion.site/Project-Resonos-spring-MVC-thymeleaf-2463a9e0ed6081059c54f942e1951d14)  
 - 기간: 2025.6.26 ~ 2025.6.30  
 - 역할: 백엔드 및 프론트엔드 전반 개발, REST API 설계, 보안 및 인증 구현, 외부 API 연동  
 - 기술: Java, Spring Boot, Spring Security, MyBatis, Thymeleaf, Bootstrap, Spotify API 등  
