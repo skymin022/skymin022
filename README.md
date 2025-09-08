@@ -42,7 +42,7 @@ My goal is to continuously improve my skills while contributing effectively to m
 - 회원 및 권한 관리, 커뮤니티 관리, 음악 데이터 관리(Spotify API 연동), 신고 및 알림 관리, 뱃지/투표 시스템 등  
 
 성과:  
-- 관리자 UI 개선, 실시간 알림 및 웹소켓 통신 구현, 보안 및 접근 제어 강화  
+- 관리자 UI 개선, 알림 및 웹소켓 통신 구현 시도, 보안 및 접근 제어 강화  
 
 ---
 
